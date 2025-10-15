@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MVA
+    - course: MSc. in Mathematics, Vision and Machine Learning (MVA), 2025
       institution: ENS Paris Saclay
       year: 2025
-    - course: Engineering Degree
+    - course: Engineer's Degree
       institution: Telecom Paris
-      year: 2021 - 2024
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
